@@ -10,29 +10,27 @@ Currently, two official plugins are available:
 
 #    Proyecto Final "Curso React Js"
 
-## GamingStore   e-commerce
+## OfiMuebles   e-commerce
 
-![Logo](https://firebasestorage.googleapis.com/v0/b/my-app-moisesgauna.appspot.com/o/logo%2FLogo.png?alt=media&token=2ef3e6e5-02a1-498d-82f7-d144eec52c05)
+![Logo](https://firebasestorage.googleapis.com/v0/b/reactjsfer.appspot.com/o/Logo.png?alt=media&token=e3f1ffea-a68e-46d0-9fa6-fb1e9bb1f537)
 
 
 ### Alumno: 
 Ibarra Fernando
 
 
-
-
 ### Profesor: 
-
+Juan Alberto Magos Sanchez
 
 ### Tutor: 
-
+Rosendo Manuel Alves
 
 ### Comision:
-
+58395
 
 ## Orientacion
 
--  Creacion de un e-commerce de productos informaticos
+-  Creacion de un e-commerce de mobiliario para oficinas
 
 # 
 
@@ -61,7 +59,7 @@ Ibarra Fernando
 Clone the project
 
 ```bash
-  git clone https://github.com/MoisesGauna/moisesgaunaapp
+  git clone https://github.com/FerIb89/ibarrafernandoapp
 ```
 
 Go to the project directory
@@ -86,7 +84,7 @@ Start the server
 
 ## Author
 
-- [@](https://github.com/)
+- [@FerIb89](https://github.com/FerIb89)
 
 
 ## 🚀 About Me
