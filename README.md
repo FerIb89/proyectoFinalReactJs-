@@ -59,8 +59,7 @@ Rosendo Manuel Alves
 Clone the project
 
 ```bash
-  git clone https://github.com/FerIb89/ibarrafernandoapp
-```
+  git clone https://github.com/FerIb89/proyectoFinalReactJs
 
 Go to the project directory
 
